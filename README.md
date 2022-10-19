@@ -1,5 +1,5 @@
 # go-database-schema
-it's a database scheme about product transaction
+it's a  product transaction database scheme.
 
 - Details: [dbdiagram](https://dbdiagram.io/d/634d696347094101957b7381)
 
